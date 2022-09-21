@@ -1,6 +1,4 @@
 ### Olá, eu sou Marcell Falcon
 
-
-- 🔭 Hoje trabalho como Técnico em enfermagem e pretendo trabalhar como programador
-- 🌱 Estou aprendendo Javascript
-- 😄 Pronouns: ele/dele
+ Hoje trabalho como Técnico em enfermagem, estou aprendendo devenvolvimento web.
+ Estou aprendendo Javascript
